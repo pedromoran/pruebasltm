@@ -4,6 +4,3 @@ Feature: f2
 
     Scenario: sce2
         Given secooon
-
-    Scenario: sce3
-        Given secooon
