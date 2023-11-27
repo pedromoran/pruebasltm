@@ -1,4 +1,6 @@
 Feature: f2
+
+    @ES
     Scenario: sf2
         Given hll
 
