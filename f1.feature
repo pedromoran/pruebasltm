@@ -15,3 +15,7 @@ Feature: f1
   @Regression
     Scenario: Ips
         Given b
+        
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
