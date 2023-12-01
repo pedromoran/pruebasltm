@@ -19,14 +19,6 @@ Feature: f2
     @Automatable
     Scenario: sce6
         Given se3ooon
-
-    @Smoke
-    Scenario: sce7
-        Given se3oo
-        
-    @Smoke
-    Scenario: sce71
-        Given se
         
     @Smoke @Smoke
     Scenario: scessssss
