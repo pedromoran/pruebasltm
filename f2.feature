@@ -28,6 +28,6 @@ Feature: f2
     Scenario: sce71
         Given se
         
-    @Smoke
+    @Smoke @Smoke
     Scenario: scessssss
         Given se
