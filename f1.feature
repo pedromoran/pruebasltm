@@ -28,3 +28,76 @@ Feature: f1
     @Regression
     Scenario: sgeeeeeeeeee
         Given ghr
+        
+          @Smoke 
+    Scenario: Sehhh
+        Given a
+        
+  @Smoke 
+    Scenario: double
+        Given d
+
+  @Regression
+    Scenario: Ips
+        Given b
+        
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+        
+
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+  
+    @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+          @Smoke 
+    Scenario: Sehhh
+        Given a
+        
+  @Smoke 
+    Scenario: double
+        Given d
+
+  @Regression
+    Scenario: Ips
+        Given b
+        
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+        
+
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+  
+    @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+          @Smoke 
+    Scenario: Sehhh
+        Given a
+        
+  @Smoke 
+    Scenario: double
+        Given d
+
+  @Regression
+    Scenario: Ips
+        Given b
+        
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+        
+
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+  
+    @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
