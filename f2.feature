@@ -23,3 +23,7 @@ Feature: f2
     @Smoke @Smoke
     Scenario: scessssss
         Given se
+        
+    @Smoke @Smoke
+    Scenario: scessssss
+        Given se
