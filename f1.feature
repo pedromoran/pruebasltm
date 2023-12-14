@@ -19,3 +19,12 @@ Feature: f1
   @Regression
     Scenario: sgeeeeeeeeee
         Given ghr
+        
+
+  @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
+  
+    @Regression
+    Scenario: sgeeeeeeeeee
+        Given ghr
