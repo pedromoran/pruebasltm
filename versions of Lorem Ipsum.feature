@@ -9,6 +9,6 @@ Feature: my featuur
     Scenario: sce2
         Given secooon
         
-    @Smoke @Amalia @Regression @-*/8Pass
+    @Smoke @Amalia @Regression @Pandora
     Scenario: sce2
         Given secooon
