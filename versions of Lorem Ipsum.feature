@@ -5,10 +5,10 @@ Feature: my featuur
         When password
         Then result
   
-  @Pass @Regresion
+  @Pass @Regression
     Scenario: sce2
         Given secooon
         
-    @Smoke @Amalia @Regresion
+    @Smoke @Amalia @Regression
     Scenario: sce2
         Given secooon
