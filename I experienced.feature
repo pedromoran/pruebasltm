@@ -4,6 +4,6 @@ Feature: f2
     Scenario: sf2
         Given hll
 
-    @ToBeAutomated @Pancha
+    @ToBeAutomated @Pancha @Pedro
     Scenario: amalia
         Given amalia
