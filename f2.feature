@@ -8,7 +8,7 @@ Feature: f2
     Scenario: sce2
         Given secooon
 
-    @Automatable @Login
+    @Automatable @Login @Pedro
     Scenario: sce3
         Given se3ooon
 
