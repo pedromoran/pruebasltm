@@ -1,18 +1,18 @@
 Feature: f2
 
-    @Automated @ToBeAutomated
+    @Automated @ToBeAutomated @Login
     Scenario: sf2
         Given hll
 
-    @NoAutomatable
+    @NoAutomatable @Login
     Scenario: sce2
         Given secooon
 
-    @Automatable
+    @Automatable @Login
     Scenario: sce3
         Given se3ooon
 
-    @Automatable
+    @Automatable @Login
     Scenario: sce4
         Given se3ooon
 
