@@ -4,7 +4,7 @@ Feature: f2
     Scenario: sf2
         Given hll
 
-    @NoAutomatable @Login
+    @Automatable @Login
     Scenario: sce2
         Given secooon
 
