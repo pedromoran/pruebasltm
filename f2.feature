@@ -48,5 +48,11 @@ Feature: f2
     Scenario: cvgbncn
         Given hll
         
-
+   @Automated 
+    Scenario: rtwetrw
+        Given hll
+   @Automated 
+    Scenario: ghdghdh
+        Given hll
+        
         
