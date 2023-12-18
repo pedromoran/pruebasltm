@@ -55,9 +55,3 @@ Feature: f2
     Scenario: ghdghdh
         Given hll
         
-   @Automated 
-    Scenario: fdgghh
-        Given hll
-        
-        
-        
