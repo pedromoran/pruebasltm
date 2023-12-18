@@ -32,3 +32,7 @@ Feature: f2
     Scenario: afafsss
         Given se
 
+@NoAutomatable @Login
+    Scenario: qweqrt
+        Given sewerwt
+        
