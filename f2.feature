@@ -27,3 +27,8 @@ Feature: f2
     @Smoke @Smoke
     Scenario: scessssss
         Given se
+        
+    @Automatable
+    Scenario: afafsss
+        Given se
+
