@@ -15,9 +15,17 @@ Feature: f2
     @Automatable @Login
     Scenario: sce4
         Given se3ooon
+        
+    @Automatable 
+    Scenario: gsgsg
+        Given se3ooon
+        
+    @Automatable @Login
+    Scenario: sce4
+        Given se3ooon
 
     @Automatable
-    Scenario: sce6
+    Scenario: iolyo
         Given se3ooon
         
     @Smoke @Smoke
