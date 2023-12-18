@@ -36,3 +36,7 @@ Feature: f2
     Scenario: qweqrt
         Given sewerwt
         
+@NoAutomatable @Login
+    Scenario: opupo
+        Given lkhl
+        
