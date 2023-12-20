@@ -12,3 +12,11 @@ Feature: my featuur
     @Smoke @Amalia @Regression @Pandora
     Scenario: sce2
         Given secooon
+        
+    @Smoke @Amalia @Regression @Pandora
+    Scenario: sce2
+        Given secooon
+        
+    @Smoke @Amalia @Regression @Pandora
+    Scenario: sce2
+        Given secooon
