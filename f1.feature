@@ -1,11 +1,11 @@
 @feature1
 Feature: f1
   
-    @Automatable
+    @Automated @Smoke
     Scenario: sce1
         Given hll
 
-    @Regresion @Smoke @Idioma @ES @Regression @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES 
+    @Candidate @Smoke @Idioma @ES @Regression @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES 
     Scenario: sce2
         Given hll
 
