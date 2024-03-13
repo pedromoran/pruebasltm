@@ -16,3 +16,35 @@ Feature: f1
     @Automated @Smoke
     Scenario: sce5
         Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
