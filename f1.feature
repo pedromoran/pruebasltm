@@ -12,3 +12,7 @@ Feature: f1
     @Regresion @Smoke @Idioma @ES @Regression @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES @Regresion @Smoke @Idioma @ES 
     Scenario: sce3
         Given hll
+
+    @Automated @Smoke
+    Scenario: sce5
+        Given hl35
