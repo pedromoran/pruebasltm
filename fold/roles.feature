@@ -3,7 +3,7 @@ Feature: Configuracion - Credenciales NUEVO
   @Smoke @Regression
   Scenario Outline: Creacion de una credencial para <credencial> con el usuario <usuario>
     Given Obtengo el token del usuario <usuario> y contraseña <contraseña>
-    When Yo realizo una '<operation>' hacia '<entity>' endpoint con el '<jsonRequest>' y ''
+    When Yo como test realizo una '<operation>' hacia '<entity>' endpoint con el '<jsonRequest>' y ''
     Then se obtuvo el status code <statusCode>
     And se obtuvo el response esperado en <entity> con el <jsonResponse>
     And Guardo la variable: 'id'  como 'credentialId'
