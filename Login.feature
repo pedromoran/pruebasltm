@@ -9,4 +9,4 @@ Feature: Inicio de Sesion
 
   Scenario: Iniciar sesion con usuario erroneo
     Given el cliente se encuentra en la pagina de login
-    When el cliente ingresa al sistema con el usuario aaa y contrasenia zzz
+    When el cliente ingresa al sistema con el usuario aaa y contrasenia
