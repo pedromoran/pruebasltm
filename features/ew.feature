@@ -16,3 +16,24 @@ Feature: #Here the title is described
     Examples:
       | field | field2 |
       | data  | data2  |
+
+      #Aca se aumentan las metricas del escenario is described
+  Scenario scenario title <field> <field2>
+    Given preconditions
+    When actions
+    Then validations
+    
+    Scenario Outline: scenario title <field> <field2>
+    Given preconditions
+    When actions
+    Then control
+       
+      Scenario Outline: scenario title <field> <field2>
+    Given preconditions
+    When actions
+    Then Se depliage Pantalla 
+    
+    Examples:
+      | token | valido |
+      | token  | Invalido   |
+      
