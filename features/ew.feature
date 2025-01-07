@@ -56,4 +56,27 @@ Feature: #Here the title is described
       | token | valido |
       | token  | Invalido   |
 
+      #Aca se aumentan las metricas del escenario is described
+  Scenario scenario title <field> <field2>
+    Given preconditions
+    When actions
+    Then validations
+    
+    Scenario Outline: scenario title <field> <field2>
+    Given preconditions
+    When actions
+    Then control
+       
+      Scenario Outline: scenario title <field> <field2>
+    Given preconditions
+    When actions
+    Then Se depliage Pantalla 
+    
+    Examples:
+      | token | valido |
+      | token  | Invalido   |
+      Pruebas en DEV 
+
+
+
       
