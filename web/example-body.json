@@ -1,8 +1,0 @@
-{
-  "body": {
-    "repositoryId": "{{repositoryId}}",
-    "branch": "main",
-    "executionType": "MANUAL",
-    "creationMode": "ALL"
-  }
-}

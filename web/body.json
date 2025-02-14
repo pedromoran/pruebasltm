@@ -8,6 +8,10 @@
     "description": "Run creado por Automation Backend",
     "projectId": "{{projectId}}",
     "branch": "main",
+    "executionType": "MANUAL",
+    "creationMode": "ALL",
+    "tagsParameters": [
+    ],
     "featuresParameters": [
     ]
   },
