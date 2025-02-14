@@ -1,0 +1,12 @@
+{
+  "headers": {
+    "Content-Type": "application/json",
+    "Authorization": "Bearer {{token}}"
+  },
+  "body": {
+    "name": "{{runName}}",
+    "description": "Run creado por Automation Backend",
+    "projectId": "{{projectId}}",
+  },
+  "endpoint": "/runs"
+}
