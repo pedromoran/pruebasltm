@@ -1,5 +1,5 @@
 @Web
-Feature: Perfil
+Feature: Long
 
   @Profile
   Scenario: Visualizar el perfil del usuario <usuario>
