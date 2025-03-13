@@ -1,6 +1,7 @@
+@Login
 Feature: Inicio de Sesion 
 
-  @Login
+  @Smoke
   Scenario: Iniciar sesion exitosamente con el usuario
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario <usuario> y contrasenia <contrasenia>
@@ -12,7 +13,7 @@ Feature: Inicio de Sesion
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario aaa y contrasenio
 
-  @Automated
+  @Manual
   Scenario: Iniciar sesion con usuario erroneo
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario aaa y contrasenio
