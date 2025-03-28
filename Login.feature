@@ -9,7 +9,7 @@ Feature: Inicio de Sesion
     Then no 4354 tested
     
   @Automated
-  Scenario: Iniciar sesion con usuario erroneo
+  Scenario: Iniciar sesion con usuario erroneo.
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario aaa y contrasenio
 
