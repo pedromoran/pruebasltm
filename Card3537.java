@@ -43,7 +43,7 @@ public class Card3537 {
         }
     }
 
-    @Then("voy a hacer una combinacion con (.*) {string} y Doc String:")
+    @Then("voy a hacer una combinacion con {string} {string} y Doc String:")
     public void voyAHacerUnaCombinacionConRegexYDocString(String ejemplo) {
         System.out.println("Ejemplo: " + ejemplo);
     }
