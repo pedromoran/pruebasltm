@@ -1,0 +1,23 @@
+Tags:
+@Tag
+
+Identifier:
+Identificador único del caso de prueba
+
+Title:
+Título del caso de prueba
+
+Description:
+Descripción del caso de prueba
+
+Preconditions:
+1.Primera precondición
+2.Segunda precondición
+
+Steps:
+1.Primer paso
+2.Segundo paso
+3.Tercer paso
+
+Expected Result:
+Resultado esperado del caso de prueba
