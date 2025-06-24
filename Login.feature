@@ -31,8 +31,3 @@ Feature: Inicio de Sesion
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario aaa y contrasenio
 
-  @Manual
-  Scenario: Iniciar sesion con usuario erroneo
-    Given el cliente se encuentra en la pagina de login
-    When el cliente ingresa al sistema con el usuario aaa y contrasenio
-
