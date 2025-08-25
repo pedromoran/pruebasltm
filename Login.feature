@@ -8,6 +8,6 @@ Feature: Inicio de Sesion
     Then no 4354 tested 
 
   @Failed_Login
-  Scenario: Frontend Iniciar sesion fallido con usuario erroneo
+  Scenario: Frontend Failed Iniciar sesion con usuario erroneo
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario aaa y contrasenio
