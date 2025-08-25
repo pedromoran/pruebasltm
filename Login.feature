@@ -7,7 +7,7 @@ Feature: Inicio de Sesion
     Then el usuario visualiza todos los proyectos en la pantalla de Dashboard
     Then no 4354 tested 
 
-  @Faild_Login
+  @Failed_Login
   Scenario: Frontend Iniciar sesion fallido con usuario erroneo
     Given el cliente se encuentra en la pagina de login
     When el cliente ingresa al sistema con el usuario aaa y contrasenio
