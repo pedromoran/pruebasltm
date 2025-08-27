@@ -1,4 +1,4 @@
-Feature: Incidencias 
+Feature: Incidencias
 
   @Issues @ToBeAutomated
   Scenario: Integrar una herramienta de gestion desde el boton Agregar (<idioma>/<herramientaDeGestion>)
