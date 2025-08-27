@@ -1,6 +1,6 @@
 Feature: Incidencias
 
-  @Issues @ToBeAutomated
+  @Issues @ToBeAutomated 
   Scenario: Integrar una herramienta de gestion desde el boton Agregar (<idioma>/<herramientaDeGestion>)
     Given Existe el proyecto Proyecto de Automation creado por usuario de automation
     And el cliente está logueado con el usuario de automation
