@@ -16,5 +16,5 @@ Feature: feature de prueba para card 3537
       | smartphone | 900 |
       | teclado | 150 |
     Then voy a hacer una combinacion con regex "Cucumber Expression" y Doc String:
-    """Hola equipo,
+    """Hola equipo
     """
