@@ -1,5 +1,5 @@
 @Web
-Feature: Long
+Feature: feature_to_remove
 
   @Profile
   Scenario: Visualizar el perfil del usuario <usuario>
