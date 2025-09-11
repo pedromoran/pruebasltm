@@ -1,6 +1,6 @@
 
 Feature: feature de prueba para card 3537
-  Scenario: Usuario envía un mensaje multilínea
+  Scenario: Usuario envía un mensaje 
     When este es un ejemplo usando Doc String:
     """Hola equipo,
     """
