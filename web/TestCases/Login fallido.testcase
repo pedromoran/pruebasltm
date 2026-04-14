@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 70354841-ceea-4393-a1a9-2974bf86e22c - 
+
+Etiquetas:
+@Login @Smoke
+
+Identificador:
+TC02
+
+Título:
+Login fallido
+
+Descripción:
+Verificar que el usuario no pueda acceder con usuario y contraseña invalidos.
+
+Precondiciones:
+El usuario debe estar registrado.
+
+Pasos:
+1. Dirigirse a la pagina de Login
+ 2. Ingresar crecenciales invalidas
+ 3. Hacer click en boton "Continuar"
+
+Resultado Esperado:
+El sistema muestra un mensaje de error.
