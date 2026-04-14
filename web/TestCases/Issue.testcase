@@ -1,0 +1,25 @@
+#ltm_test_case_id: - f95e13a6-3b85-4e20-9296-15c149c3d893 - 
+
+Identifier:
+0019
+
+Title:
+Crear incidencia
+
+Tags:
+@Issue @Smoke
+
+Description:
+Permitir al usuario crear incidencias
+
+Preconditions:
+Poseer una ejecución creada
+Poseer test fallidos
+
+Steps:
+1.Hacer click en Crear incidencias
+2.Seleccionar herramienta, agregar nombre, descripción y adjuntos
+3.Hacer click en Guardar
+
+Expected Result:
+1.Visualizar la incidencia creada en el  escenario fallido
