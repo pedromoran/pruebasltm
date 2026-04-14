@@ -1,0 +1,24 @@
+#ltm_test_case_id: - ed407aaf-e19c-4984-bbb4-64fbafe8339c - 
+
+Etiquetas:
+@Recuperación @Smoke @Regression
+
+Identificador:
+TC002
+
+Título:
+Recuperar contraseña con correo registrado
+
+Descripción:
+Verificar que el sistema permita recuperar la contraseña mediante un correo válido.
+
+Precondiciones:
+El usuario debe tener un correo registrado en el sistema.
+
+Pasos:
+1. Hacer clic en ¿Olvidaste tu contraseña?
+2. Ingresar correo registrado
+3. Confirmar solicitud
+
+Resultado Esperado:
+El sistema informa que el correo fue enviado exitosamente.

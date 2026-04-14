@@ -1,0 +1,23 @@
+#ltm_test_case_id: - 574d48ad-9626-4c16-a6b9-9763f796c3cd - 
+
+Etiquetas:
+@Notificaciones @Smoke
+
+Identificador:
+TC014
+
+Título:
+Recepción de notificaciones
+
+Descripción:
+Verificar que el usuario reciba notificaciones correctamente.
+
+Precondiciones:
+El usuario debe estar registrado y tener eventos nuevos.
+
+Pasos:
+1. Iniciar sesión
+2. Revisar sección de notificaciones
+
+Resultado Esperado:
+El sistema muestra notificaciones nuevas sin errores.

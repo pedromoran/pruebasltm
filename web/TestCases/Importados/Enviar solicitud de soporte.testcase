@@ -1,0 +1,23 @@
+#ltm_test_case_id: - f20c8dd8-261e-4bde-8bd5-49efb9df3dd1 - 
+
+Etiquetas:
+@Soporte @Smoke
+
+Identificador:
+TC045
+
+Título:
+Enviar solicitud de soporte
+
+Descripción:
+Verificar que el sistema permita contactar soporte.
+
+Precondiciones:
+Usuario autenticado.
+
+Pasos:
+1. Ir a contacto
+2. Enviar formulario
+
+Resultado Esperado:
+El sistema confirma el envío de la solicitud.

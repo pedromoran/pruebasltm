@@ -1,0 +1,24 @@
+#ltm_test_case_id: - b3ce355b-1a41-447c-9edc-02876e0f948a - 
+
+Etiquetas:
+@Recuperación @Email
+
+Identificador:
+TC016
+
+Título:
+Correo de recuperación contiene enlace válido
+
+Descripción:
+Verificar que el enlace enviado en el correo de recuperación sea válido.
+
+Precondiciones:
+El usuario debe tener correo registrado.
+
+Pasos:
+1. Recuperar contraseña
+2. Revisar correo recibido
+3. Hacer clic en el enlace
+
+Resultado Esperado:
+El sistema lleva al formulario para ingresar nueva contraseña.

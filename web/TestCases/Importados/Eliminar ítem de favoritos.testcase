@@ -1,0 +1,23 @@
+#ltm_test_case_id: - 557e64b8-66e7-4924-8e82-1f5f5b5343b5 - 
+
+Etiquetas:
+@Favoritos @CRUD
+
+Identificador:
+TC049
+
+Título:
+Eliminar ítem de favoritos
+
+Descripción:
+Verificar que el usuario pueda quitar un ítem de favoritos.
+
+Precondiciones:
+Ítem ya marcado como favorito.
+
+Pasos:
+1. Ver favoritos
+2. Eliminar ítem
+
+Resultado Esperado:
+El ítem desaparece de la lista.

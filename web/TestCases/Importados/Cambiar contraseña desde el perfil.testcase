@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 9c6247f6-7e4c-4de8-8c5c-2f20c1952777 - 
+
+Etiquetas:
+@Perfil @Regression
+
+Identificador:
+TC011
+
+Título:
+Cambiar contraseña desde el perfil
+
+Descripción:
+Verificar que el usuario pueda cambiar su contraseña correctamente.
+
+Precondiciones:
+El usuario debe haber iniciado sesión.
+
+Pasos:
+1. Ir a perfil
+2. Ingresar contraseña actual y nueva contraseña
+3. Guardar
+
+Resultado Esperado:
+El sistema actualiza la contraseña y muestra mensaje de éxito.

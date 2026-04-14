@@ -1,0 +1,24 @@
+#ltm_test_case_id: - f46a9a73-e95b-46b4-95e6-8cb908bcc9ba - 
+
+Etiquetas:
+@Recuperación @Regression
+
+Identificador:
+TC007
+
+Título:
+Recuperar contraseña con correo no registrado
+
+Descripción:
+Verificar que el sistema no permita recuperar la contraseña con un correo no registrado.
+
+Precondiciones:
+
+
+Pasos:
+1. Hacer clic en ¿Olvidaste tu contraseña?
+2. Ingresar correo no registrado
+3. Confirmar solicitud
+
+Resultado Esperado:
+El sistema muestra un mensaje indicando que el correo no está registrado.

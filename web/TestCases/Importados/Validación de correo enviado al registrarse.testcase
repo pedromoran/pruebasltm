@@ -1,0 +1,23 @@
+#ltm_test_case_id: - d8d95096-410e-43c7-ab02-049c9c9441ff - 
+
+Etiquetas:
+@Registro @Email
+
+Identificador:
+TC018
+
+Título:
+Validación de correo enviado al registrarse
+
+Descripción:
+Verificar que se envíe correo de activación tras el registro.
+
+Precondiciones:
+
+
+Pasos:
+1. Completar formulario de registro
+2. Revisar correo recibido
+
+Resultado Esperado:
+El sistema envía un correo de activación.

@@ -1,0 +1,23 @@
+#ltm_test_case_id: - cb1185eb-dc75-4647-b36c-08f0b4fd2395 - 
+
+Etiquetas:
+@Configuración @UI
+
+Identificador:
+TC047
+
+Título:
+Cambiar idioma de la aplicación
+
+Descripción:
+Verificar que el usuario pueda seleccionar otro idioma.
+
+Precondiciones:
+
+
+Pasos:
+1. Ir a ajustes
+2. Cambiar idioma
+
+Resultado Esperado:
+El sistema recarga la UI en el idioma seleccionado.

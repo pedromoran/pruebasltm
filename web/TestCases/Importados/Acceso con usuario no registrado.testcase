@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 9c61fd3a-faec-406c-84e5-ac2228f5c58e - 
+
+Etiquetas:
+@Login @Regression
+
+Identificador:
+TC004
+
+Título:
+Acceso con usuario no registrado
+
+Descripción:
+Verificar que el sistema no permita el acceso con un usuario no registrado.
+
+Precondiciones:
+El usuario no debe estar registrado.
+
+Pasos:
+1. Ingresar usuario no registrado
+2. Ingresar cualquier contraseña
+3. Hacer clic en Ingresar
+
+Resultado Esperado:
+El sistema muestra un mensaje de error indicando que el usuario no existe.

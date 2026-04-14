@@ -1,0 +1,23 @@
+#ltm_test_case_id: - 5cd36091-827f-4274-bd0a-db18b5681077 - 
+
+Etiquetas:
+@Carga @Validation
+
+Identificador:
+TC037
+
+Título:
+Rechazo de archivo con formato inválido
+
+Descripción:
+Verificar que el sistema rechace archivos con formatos no permitidos.
+
+Precondiciones:
+
+
+Pasos:
+1. Seleccionar archivo .exe
+2. Intentar subirlo
+
+Resultado Esperado:
+El sistema muestra un mensaje de error por tipo de archivo.

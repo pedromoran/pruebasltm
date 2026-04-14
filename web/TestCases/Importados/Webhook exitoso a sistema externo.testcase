@@ -1,0 +1,22 @@
+#ltm_test_case_id: - 9abacf91-5c21-4dcc-a2c0-c53cd302c8f8 - 
+
+Etiquetas:
+@Integración @API
+
+Identificador:
+TC041
+
+Título:
+Webhook exitoso a sistema externo
+
+Descripción:
+Verificar que el sistema dispare un webhook correctamente.
+
+Precondiciones:
+Sistema externo accesible.
+
+Pasos:
+1. Ejecutar acción que dispare webhook
+
+Resultado Esperado:
+El sistema externo recibe y procesa la petición.

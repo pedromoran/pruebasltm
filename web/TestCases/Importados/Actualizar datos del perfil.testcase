@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 2c9b2bbf-f500-4197-a721-ae5570c45a24 - 
+
+Etiquetas:
+@Perfil @Smoke
+
+Identificador:
+TC010
+
+Título:
+Actualizar datos del perfil
+
+Descripción:
+Verificar que el usuario pueda modificar su información personal.
+
+Precondiciones:
+El usuario debe haber iniciado sesión.
+
+Pasos:
+1. Ir a perfil
+2. Modificar nombre y teléfono
+3. Guardar cambios
+
+Resultado Esperado:
+El sistema actualiza los datos y muestra mensaje de éxito.

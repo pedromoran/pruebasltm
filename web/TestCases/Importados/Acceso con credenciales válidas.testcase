@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 2bc2575a-69d8-42c8-b03b-a3db406337ed - 
+
+Etiquetas:
+@Login @Smoke
+
+Identificador:
+TC001
+
+Título:
+Acceso con credenciales válidas
+
+Descripción:
+Verificar que el usuario pueda acceder con usuario y contraseña correctos.
+
+Precondiciones:
+El usuario debe estar registrado.
+
+Pasos:
+1. Ingresar usuario válido
+2. Ingresar contraseña válida
+3. Hacer clic en Ingresar
+
+Resultado Esperado:
+El sistema muestra la pantalla principal sin errores.

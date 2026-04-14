@@ -1,0 +1,23 @@
+#ltm_test_case_id: - 96058b9a-3849-4218-bb26-78c800a63e54 - 
+
+Etiquetas:
+@Carga @Validation
+
+Identificador:
+TC038
+
+Título:
+Validar tamaño máximo de archivo
+
+Descripción:
+Verificar que el sistema rechace archivos demasiado grandes.
+
+Precondiciones:
+
+
+Pasos:
+1. Seleccionar archivo > 10MB
+2. Subir archivo
+
+Resultado Esperado:
+El sistema muestra un mensaje de error por tamaño.

@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 78805176-0b94-45bc-b93c-b303ade766db - 
+
+Etiquetas:
+@Login @UI
+
+Identificador:
+TC006
+
+Título:
+Validación de formato de correo
+
+Descripción:
+Verificar que el campo de usuario no permita correos con formato inválido.
+
+Precondiciones:
+
+
+Pasos:
+1. Ingresar correo mal formado
+2. Ingresar cualquier contraseña
+3. Hacer clic en Ingresar
+
+Resultado Esperado:
+El sistema muestra un mensaje de error sobre el formato del correo.

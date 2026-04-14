@@ -1,0 +1,24 @@
+#ltm_test_case_id: - 0cb4e6d8-7586-4499-b0c2-2392c143f8a7 - 
+
+Etiquetas:
+@Sesión @Security
+
+Identificador:
+TC021
+
+Título:
+Expulsión tras cierre de sesión en otra pestaña
+
+Descripción:
+Verificar que cerrar sesión en una pestaña cierre la sesión en todas.
+
+Precondiciones:
+El usuario debe haber iniciado sesión en múltiples pestañas.
+
+Pasos:
+1. Iniciar sesión en dos pestañas
+2. Cerrar sesión en una
+3. Verificar la otra
+
+Resultado Esperado:
+El sistema redirige a login en ambas pestañas.

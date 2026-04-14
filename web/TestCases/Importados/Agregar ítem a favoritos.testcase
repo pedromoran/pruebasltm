@@ -1,0 +1,23 @@
+#ltm_test_case_id: - 6321607a-4ed4-4586-af20-531de5c4ae97 - 
+
+Etiquetas:
+@Favoritos @CRUD
+
+Identificador:
+TC048
+
+Título:
+Agregar ítem a favoritos
+
+Descripción:
+Verificar que el usuario pueda marcar un ítem como favorito.
+
+Precondiciones:
+Usuario autenticado.
+
+Pasos:
+1. Ver listado
+2. Marcar ítem como favorito
+
+Resultado Esperado:
+El ítem aparece en la lista de favoritos.

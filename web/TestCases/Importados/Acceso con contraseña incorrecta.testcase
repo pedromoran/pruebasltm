@@ -1,0 +1,24 @@
+#ltm_test_case_id: - d3ef85c2-c20e-4c9c-add8-8988dcbb03da - 
+
+Etiquetas:
+@Login @Regression
+
+Identificador:
+TC003
+
+Título:
+Acceso con contraseña incorrecta
+
+Descripción:
+Verificar que el sistema no permita el acceso con una contraseña incorrecta.
+
+Precondiciones:
+El usuario debe estar registrado.
+
+Pasos:
+1. Ingresar usuario válido
+2. Ingresar contraseña incorrecta
+3. Hacer clic en Ingresar
+
+Resultado Esperado:
+El sistema muestra un mensaje de error indicando credenciales inválidas.

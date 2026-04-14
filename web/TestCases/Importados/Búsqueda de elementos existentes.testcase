@@ -1,0 +1,23 @@
+#ltm_test_case_id: - 1886ad84-3e59-4d31-9846-d6098cbf9ac8 - 
+
+Etiquetas:
+@Buscador @Smoke
+
+Identificador:
+TC025
+
+Título:
+Búsqueda de elementos existentes
+
+Descripción:
+Verificar que el buscador retorne resultados correctos.
+
+Precondiciones:
+Base de datos con elementos disponibles.
+
+Pasos:
+1. Ingresar texto válido
+2. Ejecutar búsqueda
+
+Resultado Esperado:
+El sistema muestra coincidencias relevantes.
