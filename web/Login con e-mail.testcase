@@ -1,0 +1,21 @@
+Tags:
+@Login @Smoke 
+
+Identifier:
+TC03
+
+Title:
+Login con e-mail
+
+Description:
+Inicio de sesión con e-mail.
+
+Preconditions:
+El usuario debe estar registrado y tener su correo vinculado.
+
+Steps:
+1. Dirigirse a la pagina de Login
+ 2. Hacer click en "Ingresar con correo electrónico
+
+Expected Result:
+El sistema muestra la pantalla principal sin errores.

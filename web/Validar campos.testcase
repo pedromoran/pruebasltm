@@ -1,0 +1,23 @@
+Etiquetas:
+@IniciarSesion @ValidacionCamposVacios
+
+Identificador:
+TC03
+
+Título:
+Validar campos vacíos al iniciar sesión.
+
+Descripción:
+Verificar que el sistema muestre un mensaje de error al intentar iniciar sesión sin completar los campos requeridos.
+
+Precondiciones:
+1. El usuario debe estar registrado en el sistema.
+
+Pasos:
+1. Navegar a la página de inicio de sesión.
+2. Dejar el campo de nombre de usuario vacío.
+3. Dejar el campo de contraseña vacío.
+4. Hacer clic en el botón de iniciar sesión.
+
+Resultado Esperado:
+Se muestra un mensaje de error indicando que los campos no pueden estar vacíos.
